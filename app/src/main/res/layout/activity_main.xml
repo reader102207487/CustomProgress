@@ -22,5 +22,5 @@
         zhy:circleWidth="36dp"
         zhy:firstColor="#112"
         zhy:secondColor="#854"
-        zhy:speed="5" />
+        zhy:speed="10" />
 </LinearLayout>
