@@ -10,7 +10,7 @@ import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.View;
 
-/**
+/**参考鸿洋自定义文章
  * Created by qff on 2017/5/20.
  */
 
